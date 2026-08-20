@@ -108,10 +108,7 @@ plt.axis('off')
 ```
 ## Adaptive Thresholding
 ```
-plt.subplot(2, 2, 3)
-plt.imshow(adaptive_thresholded, cmap='gray')
-plt.title("Adaptive Thresholding")
-plt.axis('off')
+
 plt.subplot(2, 2, 3)
 plt.imshow(adaptive_thresholded, cmap='gray')
 plt.title("Adaptive Thresholding")
@@ -119,10 +116,6 @@ plt.axis('off')
 ```
 ## Otsu's Thresholding
 ```
-plt.subplot(2, 2, 4)
-plt.imshow(otsu_thresholded, cmap='gray')
-plt.title("Otsu's Method")
-plt.axis('off')
 plt.subplot(2, 2, 4)
 plt.imshow(otsu_thresholded, cmap='gray')
 plt.title("Otsu's Method")
