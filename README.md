@@ -59,10 +59,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-**Name:** ____________________________
+**Name:** NITHILA S
 
-**Register No:** ______________________
-
+**Register No:** 212224040224
 ## Output
 
 ### Original Grayscale Image
